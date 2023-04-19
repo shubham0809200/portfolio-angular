@@ -18,9 +18,7 @@ export class ExperianceComponent {
 
   ngOnInit(): void {
     this.experiences = [...this.experiance].reverse() as experience[];
-    console.log(this.experiences);
     this.educations = [...this.education].reverse() as education[];
-    console.log(this.educations);
   }
 
   setShow(tab: string) {

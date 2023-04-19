@@ -1,6 +1,6 @@
 {
   "main": {
-    "name": "Shubham Kumar",
+    "name": "Shubham ",
     "shortDesc": "I focus on developing user-friendly web applications that meet the client's requirements, with attention to detail, scalability, and performance.",
     "titles": [
       "Frontend Development",
@@ -25,20 +25,24 @@
   },
   "socials": [
     {
-      "icon": "FaLinkedin",
-      "link": "https://www.linkedin.com/in/jhon-doe"
+      "icon": "https://img.icons8.com/color/144/null/linkedin.png",
+      "link": "https://www.linkedin.com/in/ishubhamkr"
     },
     {
-      "icon": "FaGithub",
-      "link": "https://github.com/jhon-doe"
+      "icon": "https://img.icons8.com/material-outlined/96/null/github.png",
+      "link": "https://github.com/shubham0809200"
     },
     {
-      "icon": "FaInstagram",
-      "link": "https://www.instagram.com/jhondoe"
+      "icon": "https://img.icons8.com/color/144/null/instagram-new.png",
+      "link": "https://www.instagram.com/i.shubham.kr/"
     },
     {
-      "icon": "FaTwitter",
-      "link": "https://twitter.com/jhondoe"
+      "icon": "https://img.icons8.com/color/144/null/twitter.png",
+      "link": "https://twitter.com/kr08092000"
+    },
+    {
+      "icon": "https://img.icons8.com/color/144/null/medium-monogram.png",
+      "link": "https://medium.com/@i.shubham"
     }
   ],
   "skills": [

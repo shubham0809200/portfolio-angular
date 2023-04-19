@@ -1,6 +1,5 @@
 import { Component, Input } from '@angular/core';
 import { main } from 'src/app/modules/data-model/data.module';
-import details from 'src/assets/data/data.json';
 
 @Component({
   selector: 'app-hero',

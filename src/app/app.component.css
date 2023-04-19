@@ -3,7 +3,6 @@
   height: calc(auto - 65px);
   z-index: 0 !important;
   min-height: 500px;
-  /* background: #ffffff; */
 }
 
 .mat-drawer {
@@ -11,10 +10,7 @@
   margin-top: 80px;
   width: 210px;
   border-right: none;
-  /* background: #767b8044; */
-  /* color: white; */
   position: relative;
-  border-radius: 10px;
   padding: 16px;
   text-align: center;
   overflow-x: hidden;
@@ -27,9 +23,6 @@
 }
 
 .mat-drawer-content {
-  margin: 16px;
-  padding: 16px;
-  border-radius: 10px;
   background: #ffffff;
   height: calc(auto - 65px);
   overflow-y: auto;
@@ -71,4 +64,10 @@
 .text-style {
   font-family: "Reenie Beanie", cursive;
   font-size: 30px;
+}
+
+
+mat-toolbar{
+  padding: 0;
+  background: transparent !important;
 }

@@ -48,12 +48,12 @@ export interface about {
 }
 
 export interface social {
-  name: string;
   icon: string;
   link: string;
 }
 
 export interface data {
+  [x: string]: any;
   main: main;
   about: about;
   skills: skill[];

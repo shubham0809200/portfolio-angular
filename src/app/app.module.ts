@@ -13,8 +13,9 @@ import { ExperianceComponent } from './components/experiance/experiance.componen
 import { ExperianceCardComponent } from './components/experiance/experiance-card/experiance-card.component';
 import { ContactComponent } from './components/contact/contact.component';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
-import { CallToActionComponent } from './components/call-to-action/call-to-action.component';
 import { FooterComponent } from './components/footer/footer.component';
+import { SocialComponent } from './components/social/social.component';
+
 
 @NgModule({
   declarations: [
@@ -27,8 +28,8 @@ import { FooterComponent } from './components/footer/footer.component';
     ExperianceComponent,
     ExperianceCardComponent,
     ContactComponent,
-    CallToActionComponent,
     FooterComponent,
+    SocialComponent,
   ],
   imports: [
     AngularMaterialModule,

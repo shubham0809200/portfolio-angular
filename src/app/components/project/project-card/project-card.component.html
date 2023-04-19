@@ -3,8 +3,10 @@
     (intersection)="onIntersection($event)">
 
     <div class="relative group rounded-lg bg-violet-50">
-        <img alt="{{ project.name }}" [src]="project.image"
-            class="max-w-full h-48 max-h-full object-cover object-top rounded-lg" />
+        <img *ngIf="project.image.trim()" alt="{{ project.name }}" [src]="project.image"
+            class="max-w-full h-48 max-h-full object-cover object-top rounded-lg w-full" />
+        <img *ngIf="!project.image.trim()" src="./../../../../assets/images/Image UnAvilable.png"
+            alt=" {{project.name}} " class="max-w-full h-48 max-h-full object-cover object-top rounded-lg w-full" />
 
         <div class="absolute top-0 scale-x-0 group-hover:scale-100 transition-transform origin-left duration-200 ease-linear bg-gray-800 bg-opacity-60 w-full h-full rounded-lg flex items-center gap-4 justify-center"
             *ngIf="project.links.visit.trim() || project.links.code.trim() || project.links.video.trim()">

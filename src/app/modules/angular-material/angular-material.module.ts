@@ -44,6 +44,7 @@ const MaterialComponents = [
   MatSnackBarModule,
   MatTreeModule,
   MatDialogModule,
+  MatToolbarModule,
   MatTabsModule,
 ];
 
