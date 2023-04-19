@@ -1,64 +1,7 @@
-<!-- ![Portfolio](https://firebasestorage.googleapis.com/v0/b/folio-shubham.appspot.com/o/profile%2Flightmode.png?alt=media&token=f4d21151-4c8c-4be9-9a1c-d4524aea233d)
-
-<div align="center" >
-  &middot;
-  <i>
-  Portfolio Angular built in Angular + TypeScript + Tailwind CSS + Firebase
-  </i>
-  &middot;
-    <br/>
-    <br/>
-
- <p align="center">
-    <img src="https://img.shields.io/github/forks/shubham0809200/portfolio-angular?style=for-the-badge" />
-    <a href="https://shubhamkr.web.app">
-        <img src="https://img.shields.io/static/v1?label=&message=View%20Demo&style=for-the-badge&color=black&logo=angular" />
-    </a>
-</p>
-
-<p align="center">
-  <a href="#introduction-">Introduction</a> •
-  <a href="#tech-stack-%EF%B8%8F">Tech Stack</a> •
-  <a href="#development-">Development</a> •
-    <a href="#deployment-">Deployment</a> •
-  <a href="#license-">License</a>
-</p>
-
-</div>
-
-## Introduction 👋
-
-Portfolio Angular is built using Angular and Tailwind CSS for a modern design and rapid development. TypeScript is utilized for code clarity and safety. Additionally, Firebase is being integrated for backend services such as realtime-database. The result is a dynamic and functional portfolio website that showcases the developer's skills and experience.
-
-## Tech Stack 🛠️
-
-- [Angular](https://angular.io)
-- [TypeScript](https://www.typescriptlang.org)
-- [Tailwind CSS](https://tailwindcss.com)
-- [Firebase](https://firebase.google.com)
-
-## Development 💻
-
-Here are the steps to run the project and deploy it online.
-
-1. Fork [this](https://github.com/shubham0809200/portfolio-angular) repository.
-
-2. Clone your forked copy of the project.
-
- ```bash
-   git clone https://github.com/<your-github-username>/
-    portfolio-angular.git
-```
-
-3. Install the dependencies.
-
- ```bash
-   npm install
-``` -->
 
 # Portfolio Angular
 
-![Portfolio](https://firebasestorage.googleapis.com/v0/b/folio-shubham.appspot.com/o/profile%2Flightmode.png?alt=media&token=f4d21151-4c8c-4be9-9a1c-d4524aea233d)
+![Portfolio](https://miro.medium.com/v2/resize:fit:720/format:webp/1*MGMIc4nzyEOmZRb05arMaA.png)
 
 Portfolio Angular built in Angular + TypeScript + Tailwind CSS + Firebase
 
