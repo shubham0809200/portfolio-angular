@@ -97,7 +97,7 @@ Portfolio Angular is built using Angular and Tailwind CSS for a modern design an
 To see the website, run:
 
 ```bash
-ng serve
+   ng serve
 ```
 
 Go to http://localhost:4200 to view the website.
@@ -165,11 +165,14 @@ Hope you like it.
 <br/>
 #Peace ✌️
 
-
 ---
 
 ```text
 you can also refer to this article for more details
 ```
+
 ## [Article](https://medium.com/@i.shubham/portfolio-angular-a20a4be58933)
 
+## License 📄
+
+This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE.md) file for details
