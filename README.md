@@ -19,6 +19,10 @@ Portfolio Angular is built using Angular and Tailwind CSS for a modern design an
 - [Tailwind CSS](https://tailwindcss.com)
 - [Firebase](https://firebase.google.com)
 
+## Development 💻
+
+Steps to convert the portfolio into your own and deploy it
+
 1. Fork this repository:
 
 ```bash
