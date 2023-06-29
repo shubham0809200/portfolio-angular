@@ -105,9 +105,9 @@
           </div>
         </nav>
       </mat-toolbar>
-
+      <app-hero [detail]="details.main" />
       <section class=" dark:bg-gradient-to-b dark:from-grey-900 dark:to-grey-900 dark:text-white">
-        <app-hero [detail]="details.main" />
+        
         <app-about [about]="details.about" [name]="details.main.name" />
         <app-skill [skillData]="details.skills" />
         <app-project [projectsData]="details.projects" />
