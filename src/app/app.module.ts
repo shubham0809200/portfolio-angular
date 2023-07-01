@@ -15,6 +15,7 @@ import { ContactComponent } from './components/contact/contact.component';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { FooterComponent } from './components/footer/footer.component';
 import { SocialComponent } from './components/social/social.component';
+import { MonsterComponent } from './components/monster/monster.component';
 
 
 @NgModule({
@@ -30,6 +31,7 @@ import { SocialComponent } from './components/social/social.component';
     ContactComponent,
     FooterComponent,
     SocialComponent,
+    MonsterComponent,
   ],
   imports: [
     AngularMaterialModule,
@@ -38,7 +40,7 @@ import { SocialComponent } from './components/social/social.component';
     FormsModule,
     ReactiveFormsModule,
   ],
-  providers: [],
+  providers: [MonsterComponent],
   bootstrap: [AppComponent],
 })
 export class AppModule {}
